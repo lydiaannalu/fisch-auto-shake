@@ -1,3 +1,5 @@
 pyobjc-core
 pyobjc
 PyAutoGUI
+opencv-python
+pillow
